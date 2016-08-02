@@ -1,0 +1,4 @@
+first_choice.txt
+
+-I'll chose the best door
+*I'll chose the best door

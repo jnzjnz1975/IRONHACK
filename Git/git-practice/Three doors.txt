@@ -1,0 +1,5 @@
+Three doors
+
+You are in a room with three doors
+which door will you go through?
+I'll chose the best door 

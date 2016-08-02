@@ -1,0 +1,24 @@
+#cabeceraweb {
+	background-color: green;
+}
+
+#barralateral {
+	background-color: blue;
+	float: left;
+	height: 880px;
+	width:200px;
+	text-align: center;
+}
+
+#contenidoprincipal {
+	background-color: purple;
+	margin-left: 210px;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+
+#pieprincipal {
+	background-color: orange;
+	clear: both;
+	margin-top: 15px
+}
